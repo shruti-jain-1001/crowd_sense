@@ -1,0 +1,8 @@
+ID: 1 crossed going down at Sun Jun 30 20:28:06 2024
+ID: 2 crossed going down at Sun Jun 30 20:28:10 2024
+ID: 3 crossed going down at Sun Jun 30 20:28:14 2024
+ID: 5 crossed going up at Sun Jun 30 20:28:15 2024
+ID: 9 crossed going up at Sun Jun 30 20:28:18 2024
+ID: 8 crossed going down at Sun Jun 30 20:28:18 2024
+ID: 7 crossed going up at Sun Jun 30 20:28:18 2024
+ID: 9 crossed going down at Sun Jun 30 20:28:22 2024
